@@ -63,8 +63,10 @@ Note that a course can be taught in different rooms by different teachers. The r
 | CS101       | Intro to Java |
 | CS103       | Databases     |
 
+---
 
-Using pen and paper, normalize the database below. 
+
+Question  :  Using pen and paper, normalize the database below. 
   
   Customer Name | Address | email | product purchased | price | seller | quantity ordered
   --- | --- | --- | --- | --- | --- | ---
